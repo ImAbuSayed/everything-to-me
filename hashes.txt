@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Everything To Me
+
+This log tracks the cryptographic history and versioning for the song **Everything To Me** (everything-to-me).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T04:24:39.712634 | `v1` | `d7dba5e6f5ff8ae84be8ba9eb61a336b0b603f3ba3e384456b7d9bdcd08dc25a` | `2e8e7fabd8cd54326407f5a6bd749ac7b3eb70861bdb651f2ef678c8ce8c4e48` | `2026-05-25_everything-to-me-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
