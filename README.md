@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/everything-to-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Everything To Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/everything-to-me/) |
+| **Get License** | [Request Licensing for Everything To Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/everything-to-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> We got the windows down and nowhere to be
+> Your hand is tracing every part of me
+> The midnight air is pulling both of us close
+> You are the only kind of magic I chose
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
